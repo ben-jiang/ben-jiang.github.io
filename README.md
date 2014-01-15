@@ -1,3 +1,2 @@
-ben-jiang.github.io
-===================
-[Checking out...](http:// ben-jiang.github.io)
+
+[ben-jiang.github.io](http://ben-jiang.github.io)
